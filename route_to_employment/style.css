@@ -1,0 +1,33 @@
+/*.home_bg, header {
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("images/kk3.jpeg");
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}*/
+.home_bg { background: url(images/kk3.jpeg) no-repeat center; background-size: cover; }
+.home_bgq { background: url(images/qu1.jpg) no-repeat center; background-size: cover; }
+.home_bgv { background: url(images/v3.jpg) no-repeat center; background-size: cover; }
+.home_bgr { background: url(images/r1.jpg) no-repeat center; background-size: cover; }
+.home_bgt { background: url(images/t2.jpg) no-repeat center; background-size: cover; }
+.home_bge { background: url(images/e2.jpg) no-repeat center; background-size: cover; }
+
+.end_block {
+	background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("images/bgimage.jpg");
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+}
+
+h1, .font-beyond { font-family: 'beyond_the_mountainsregular', sans-serif; }
+
+h1 { font-size: 4.5em; line-height: 1.4; }
+.graph_section {
+    background: linear-gradient(rgba(255,255,255,.5), rgba(255,255,255,.5)), url("images/s2.jpg");
+    z-index: 1;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
